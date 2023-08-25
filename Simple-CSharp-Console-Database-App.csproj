@@ -3,7 +3,7 @@
   <PropertyGroup>
 	<OutputType>Exe</OutputType>
 	<TargetFramework>net7.0</TargetFramework>
-	<RootNamespace>Simple_CSharp_Console_Database_App</RootNamespace>
+	<RootNamespace>CSharp_Simple_Console_Database_App</RootNamespace>
 	<ImplicitUsings>enable</ImplicitUsings>
 	<Nullable>enable</Nullable>
 	<ContentSQLiteInteropFiles>true</ContentSQLiteInteropFiles>
