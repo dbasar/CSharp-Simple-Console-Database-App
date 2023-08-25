@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple-Console-Database-App", "Simple-Console-Database-App.csproj", "{BA198B99-A5BA-499F-B48F-7A8036B27448}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple-CSharp-Console-Database-App", "Simple-CSharp-Console-Database-App.csproj", "{BA198B99-A5BA-499F-B48F-7A8036B27448}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
