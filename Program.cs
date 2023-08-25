@@ -1,6 +1,6 @@
 ﻿using System.Data.SQLite;
 
-namespace Simple_Console_Database_App
+namespace Simple_CSharp_Console_Database_App
 {
     internal class Program
     {
